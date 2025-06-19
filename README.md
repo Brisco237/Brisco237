@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brisco237&label=Profile%20views&color=0e75b6&style=flat" alt="brisco237" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brisco237" alt="brisco237" /></a> </p>
-
-- 🔭 I’m currently working on Django
+- 🔭 I’m currently working on [kamdem.Blog](https://kamdem.pythonanywhere.com)
 
 - 🌱 I’m currently learning **Histoire, dev web, reseaux**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **kamdembrice770@gmail.com**
 
-- 📄 Know about my experiences [je un passionné et j'ai une soif constante d'apprendre](je un passionné et j'ai une soif constante d'apprendre)
+- 📄 Know about my experiences [je un passionné et j'ai une soi constante d'apprendre](je un passionné et j'ai une soi constante d'apprendre)
 
 - ⚡ Fun fact **Très drôle mes amis peuvent vous dire**
 
