@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kamdem Brice</h1>
-<h3 align="center"> Je suis un passionné de développement Web (Django, Html5, Css3) et historien néophyte.</h3>
+<h1 align="center">Hi 👋, I'm Kamdem</h1>
+<h3 align="center"> Je suis un passionné de développement Web, de la Tech en générale et historien néophyte.</h3>
 
 - 🔭 I’m currently working on [kamdem.Blog](https://kamdem.pythonanywhere.com)
 
