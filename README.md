@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamdem.</h1>
-<h3 align="center">Etudiant en informatique & passionné de développement Web (Django, React) et historien néophyte.</h3>
+<h3 align="center">Etudiant en informatique & passionné de développement Web également historien néophyte.</h3>
 
 - 🔭 I’m currently working on [kamdem.Blog](https://kamdem.pythonanywhere.com)
 
