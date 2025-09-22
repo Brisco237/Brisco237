@@ -21,8 +21,15 @@
 <a href="https://fb.com/brisco mwana mboka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brisco mwana mboka" height="30" width="40" /></a>
 </p>
 <p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgzbHJoN3JoMXB6NThidjZnYWE4dDBuYzZva3oxZHdmOWpkbHE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Mon gif pour le fun" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgzbHJoN3JoMXB6NThidjZnYWE4dDBuYzZva3oxZHdmOWpkbHE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Mon gif pour le fun" width="350"/>
 </p>
+<p align="right">
+  <img src="https://forum.code.org/t/upgrading-the-web-dev-unit-your-input-needed/38515" alt="Mon gif pour le fun" width="350"/>
+</p>
+<p align="right">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fweb-developer&psig=AOvVaw1sUyF4xIzi4Jt5WWZOXNRh&ust=1758653844132000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICQj_yG7Y8DFQAAAAAdAAAAABAW" alt="Mon gif pour le fun" width="350"/>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
