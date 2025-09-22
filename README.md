@@ -20,16 +20,11 @@
 <a href="https://twitter.com/kamdem brice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamdem brice" height="30" width="40" /></a>
 <a href="https://fb.com/brisco mwana mboka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brisco mwana mboka" height="30" width="40" /></a>
 </p>
-<p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgzbHJoN3JoMXB6NThidjZnYWE4dDBuYzZva3oxZHdmOWpkbHE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Mon gif pour le fun" width="350"/>
-</p>
-<p align="right">
-  <img src="https://forum.code.org/t/upgrading-the-web-dev-unit-your-input-needed/38515" alt="Mon gif pour le fun" width="350"/>
-</p>
-<p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fweb-developer&psig=AOvVaw1sUyF4xIzi4Jt5WWZOXNRh&ust=1758653844132000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICQj_yG7Y8DFQAAAAAdAAAAABAW" alt="Mon gif pour le fun" width="350"/>
-</p>
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgzbHJoN3JoMXB6NThidjZnYWE4dDBuYzZva3oxZHdmOWpkbHE3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gif1" width="300"/>
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="gif2" width="400"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaN18elKb1q87rmYddSr2_AtzsQNRUHhcSKQ&s" alt="gif3" width="300"/>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
