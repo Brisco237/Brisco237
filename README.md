@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">My name is Kamdem and I'm a dev | Fullstack.</h3>
+<h3 align="center">My name is Kamdem and I'm a dev | Fullstack & Mobile.</h3>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2019.<br>📚 I'm currently learning : History and new Tech.<br>🎯 Goals : Etre un meilleur dev pour implémenter des solutions plus solides et  durables face  aux problemes africains.<br>🎲 Fun fact : Les Bamoun ont un alphabet et une écriture propres, créés par le roi Njoya au début du XXᵉ siècle. Imagine : au lieu de copier l’alphabet latin, ils ont inventé leurs propres lettre. ! 😄<br>🎲 Fun fact : << Formez vous et armez vous des sciences jusqu'aux dents et arrachez votre patrimoine culturel. >> Cheick anta diop<br>🎲 Fun fact : << Chaque génération doit, dans une relative opacité découvrir sa mission, soit l'accomplir ou la trahir. >> Frantz Fanon<br><br>       Je suis un étudiant passionné d’histoire, avec un intérêt particulier pour l’histoire Africaines et ses grandes civilisations anciennes, mais aussi un développeur backend spécialisé en Django, Javascript, react, bootstrap. Curieux et polyvalent, j’aime autant explorer le passé pour en comprendre les leçons que créer des projets modernes en informatique. Entre recherche académique et innovation technologique, je nourris mes passions en apprenant, en partageant et en construisant sans cesse.</p>
+<p align="center">✨ Creating bugs since 2019.<br>📚 I'm currently learning :Nouevelles technologies & History.<br>🎯 Goals : Etre un meilleur dev pour implémenter des solutions plus solides et  durables face  aux problemes africains.<br>🎲 Fun fact : Les Bamoun ont un alphabet et une écriture propres, créés par le roi Njoya au début du XXᵉ siècle. Imagine : au lieu de copier l’alphabet latin, ils ont inventé leurs propres lettre. ! 😄<br>🎲 Fun fact : << Formez vous et armez vous des sciences jusqu'aux dents et arrachez votre patrimoine culturel. >> Cheick anta diop<br>🎲 Fun fact : << Chaque génération doit, dans une relative opacité découvrir sa mission, soit l'accomplir ou la trahir. >> Frantz Fanon<br><br>       Je suis un étudiant passionné d’informatique(réseaux, dev web et mobile, hacking).Je suis fan avec un intérêt particulier pour l’histoire Africaines et ses grandes civilisations anciennes, mais aussi un développeur backend spécialisé en Django, Javascript, react, bootstrap. Curieux et polyvalent, j’aime autant explorer le passé pour en comprendre les leçons que créer des projets modernes en informatique. Entre recherche académique et innovation technologique, je nourris mes passions en apprenant, en partageant et en construisant sans cesse, car je suis de ceux qui pensent que aujourd'hui les sciences de l'information et de la communication peuvent et doivent etre mis au service de l'émancipation de l'homme dans tous les aspects de sa vie</p>
 
 ###
 ###
